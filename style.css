@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Archivo Black', sans-serif;
+    width: 40%;
+    height: 500px;
+}
+
+
+.section{
+    border-radius: 25px;
+    background-color: rgb(95, 93, 93);
+}
+.section p{
+    color: #ffff;
+}
+.color{
+    color: rgb(80, 140, 173);
+}
